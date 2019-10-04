@@ -12,8 +12,8 @@ Fashion is more than just following trends and judging what looks good. Fashion 
 ###Example of a Lifestyle Theme
 My favorite genre of music is dubstep, a subgenre of EDM with a very prominent bass. I first got really into dubstep when I saw Excision, one of the biggest bass artists in the US, live at Hammerstein Ballroom in New York City. I was fascinated by the culture surrounding the people who listen to his music. At softer raves, the crowd can be pretty dull and homogeneous. All the guys are wearing basketball jerseys and all the girls are wearing the same black Victoria's Secret bralette. Bass fans, also referred to as wooks, are a lot more unique. I see people with psychedelic patterned scarves, skull face masks, bright neon colored fishnets, crazy goggle, and animal print shorts. They headbang with so much energy and aren't afraid of the intensity of the music. To me, this individuality and fearlessness is what I love most about the rave scene. 
 
-![Lostlands](lostlands.jpg)
+![Lostlands](/images/lostlands.jpg)
 *This is a photo from Lostlands, an annual bass festival sponsored by Excision. Every year is dinosaur/reptile themed, and people are encouraged to come in their craziest costumes.*
 
-![Sketch](outfitsketch.jpg)
+![Sketch](/images/outfitsketch.jpg)
 *This is an example of something I would wear to Lostlands. The snakeskin bikini bottom is inspired by the reptilian theme.*
